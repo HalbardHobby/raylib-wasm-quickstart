@@ -14,8 +14,16 @@ Once you have these dependencies installed, you can start the developing your ga
 
 ## Next Features
 
-[ ] Support for Windows and MacOs
-[ ] Fully contained development environment
-[ ] Support for multiple raylib versions
-[ ] Extensive error handling
-[ ] Support for another IDE's
+- [ ] Support for Windows and MacOs
+- [ ] Fully contained development environment
+- [ ] Support for multiple raylib versions
+- [ ] Extensive error handling
+- [ ] Support for another IDE's
+
+## Contributing
+
+This project is open source and contributions are welcome! To contribute, simply fork this repository and submit a pull request with your changes. 
+
+## License
+
+This project is licensed under the MIT license. See LICENSE for more information.
