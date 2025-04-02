@@ -7,6 +7,8 @@
             "dependsOn": ["create directories"],
             "args": [
                 "main.cpp",
+                "-std=c++14",
+                "-ggdb",
                 "-lraylib",
                 "-lGL",
                 "-lm",
